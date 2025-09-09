@@ -1,6 +1,6 @@
 # hume_ai
 
-Ruby client for [Hume AI](https://hume.ai) TTS + EVI APIs. This gem mirrors the ergonomics of an ElevenLabs-style client: simple `Client`, clear resource classes (`Voices`, `TTS`), and helpers for streaming and WebSocket integration.
+Ruby client for [Hume AI](https://hume.ai) TTS + EVI APIs. This gem  provides client: simple `Client`, resource classes (`Voices`, `TTS`), and helpers for streaming and WebSocket integration.
 
 ---
 
